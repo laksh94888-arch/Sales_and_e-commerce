@@ -1,0 +1,14 @@
+# Core Data Analytics & Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Interactive Dashboard & Visualizations
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Executive PDF Reporting
+reportlab>=4.0.0
+
+# Automated Testing Framework
+pytest>=7.4.0
